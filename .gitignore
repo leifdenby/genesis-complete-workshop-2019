@@ -1,0 +1,6 @@
+.*.sw*
+*.nc
+
+fixed_flux_noshear__imperial.tar.gz
+fixed_flux_noshear__nx800/
+

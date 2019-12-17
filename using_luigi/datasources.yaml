@@ -1,0 +1,5 @@
+no_shear.tn6:
+  host: localhost
+  path: ../fixed_flux_noshear__nx800/
+  experiment_name: rico
+  model: UCLALES

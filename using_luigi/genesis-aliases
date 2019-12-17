@@ -1,0 +1,2 @@
+alias genesis-viz="python -m luigi --local-scheduler --module genesis.utils.pipeline.viz"
+alias genesis-data="python -m luigi --local-scheduler --module genesis.utils.pipeline.data"
