@@ -9,6 +9,9 @@ project. The toolkit enables the study of coherent structures in atmospheric
 flows and is designed to for studying coherent boundary layer structures which
 trigger convective clouds.
 
+Intro slides are available
+[here](http://homepages.see.leeds.ac.uk/~earlcd/GENESIS/files/presentations/GENESIS_course_-_COMPLETE_workshop.pptx).
+
 ## Getting started
 
 The repository contains jupyter notebooks with exercises (in
