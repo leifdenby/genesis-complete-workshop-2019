@@ -17,11 +17,14 @@ Intro slides are available
 The repository contains jupyter notebooks with exercises (in
 [notebooks/](notebooks/)) and examples for using the
 [luigi](https://github.com/spotify/luigi) analysis pipeline in the GENESIS
-toolkit (in [using_luigi/](using_luigi/)). To work with either you will need an
+toolkit (in [using_luigi/](using_luigi/)). To work on either you will need an
 example dataset which can be downloaded
 [here](http://homepages.see.leeds.ac.uk/~earlcd/genesis-data/fixed_flux_noshear__imperial.tar.gz).
 
-To get started you should clone this repository locally:
+You'll need to [install the GENESIS
+toolkit](https://github.com/leifdenby/genesis#genesis-toolkit-for-analysing-coherent-structures-in-atmospheric-flows).
+
+To get started on the exercises you should clone this repository locally:
 
 ```bash
 git clone https://github.com/leifdenby/genesis-complete-workshop-2019
